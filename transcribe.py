@@ -34,7 +34,7 @@ or some other options, If you find some other program online or something and yo
 
 
 output_file = '/home/ryan/output.txt'
-file_dir = '/home/ryan/Desktop/ToSort/AW/Alice_9be790ba-0f15-4687-94e5-f02ee50d07a8_0271.wav/*'
+file_dir = ''
 
 
 def transcribe(filepath, string):
